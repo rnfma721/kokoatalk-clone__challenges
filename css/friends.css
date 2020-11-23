@@ -72,9 +72,6 @@
     animation-delay: 2.8s;
 }
 
-.splash-screen {
-    position: relative;
-}
 .bubble-screen span {
     background-color: #9ddfd3;
     padding: 40px 50px;
